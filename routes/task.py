@@ -24,3 +24,5 @@ def mark_task_complete(intern_email: str, title: str):
             task.completed = True
             return {"message": "Task marked as completed"}
     raise HTTPException(status_code=404, detail="Task not found")
+
+# hi my name is Harsh Shrivastava
