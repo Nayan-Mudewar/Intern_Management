@@ -21,7 +21,7 @@ A backend-only Intern Management System built using **FastAPI**, designed to man
 ##  Tech Stack
 
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
-- **Database**: (You can use SQLite/PostgreSQL/MySQL etc.)
+- **Database**: MongoDB Compass
 - **Authentication**: JWT/Bearer Tokens or Basic Auth (customizable)
 
 ---
